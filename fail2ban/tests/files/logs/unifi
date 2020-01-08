@@ -1,0 +1,4 @@
+# failJSON: { "time": "2020-01-07T07:39:38", "match": true , "host": "172.17.0.1" }
+[2020-01-07T07:39:38,484] <webapi-42> INFO  api    - [api] Failed admin login for foo from 172.17.0.1
+# failJSON: { "time": "2020-01-07T09:53:55", "match": true , "host": "172.17.0.2" }
+[2020-01-07T09:53:55,382] <webapi-232> INFO  api    - [api] Failed admin login for test from 172.17.0.2
