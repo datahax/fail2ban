@@ -1,0 +1,2 @@
+# failJSON: { "time": "2020-01-08T08:03:27", "match": true, "host": "172.17.0.1" }
+2020-01-08 08:03:27 WARNING (MainThread) [homeassistant.components.http.ban] Login attempt or request with invalid authentication from 172.17.0.1
